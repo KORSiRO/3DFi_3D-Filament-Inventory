@@ -16,16 +16,16 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <h2 align="center">Quelles valeurs sont prises en compte ?</h2>  
   
 
-<h3 align="center"><ins>1. "Quantité de bobine(s) :</ins></h3>  
+<h3 align="center"><ins>"Quantité de bobine(s) :</ins></h3>  
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
-<h3 align="center"><ins>2. "Poids total de(s) bobines neuves (g)" :</ins></h3>
+<h3 align="center"><ins>"Poids total de(s) bobines neuves (g)" :</ins></h3>
 
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
    > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
    
-<h3 align="center"><ins>3. "Type de Filament" et "Marque de filament" :</ins></h3>  
+<h3 align="center"><ins>"Type de Filament" et "Marque de filament" :</ins></h3>  
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
@@ -43,11 +43,11 @@ Elles contiennent déjà plus de **150 données préenregistrées**.
 Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs types/marques de filament.  
 Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille "**Inventaire**".
 
-<h3 align="center"><ins>4. "Couleurs" :</ins></h3>  
+<h3 align="center"><ins>"Couleurs" :</ins></h3>  
 
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
 
-<h3 align="center"><ins>5. "Poids restant" :</ins></h3>  
+<h3 align="center"><ins>"Poids restant" :</ins></h3>  
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
 - Le "Poids total de(s) bobines neuves (g)"
@@ -56,20 +56,20 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
   > <ins>Ex :</ins> Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
 
-<h3 align="center"><ins>6. "Lieu de stockage" :</ins></h3>  
+<h3 align="center"><ins>"Lieu de stockage" :</ins></h3>  
 
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
 
-<h3 align="center"><ins>7. "TD (Hueforge)" :</ins></h3>
+<h3 align="center"><ins>"TD (Hueforge)" :</ins></h3>
 
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 
-<h3 align="center"><ins>8. "Temps de séchage (mins)" :</ins></h3>  
+<h3 align="center"><ins>"Temps de séchage (mins)" :</ins></h3>  
 
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 
-<h3 align="center"><ins>9. "Alerte" et "% restant" :</ins></h3>  
+<h3 align="center"><ins>"Alerte" et "% restant" :</ins></h3>  
 
 Ces deux colonnes sont un peu différentes des autres.  
 Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.
