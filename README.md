@@ -31,7 +31,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />
 
-## CARACTÉRISTIQUES DU TABLEAU
+## :clipboard: CARACTÉRISTIQUES DU TABLEAU
 
 <br />
 
