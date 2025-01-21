@@ -109,7 +109,7 @@ Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous l
 ### :warning: <ins>"Alerte" et "% restant" :</ins> 
 
 Ces deux colonnes sont un peu différentes des autres.  
-Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.
+Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.  
 Aucun besoin de saisir manuellement une valeur, tout est automatisé.  
 
 <p align="center">  
