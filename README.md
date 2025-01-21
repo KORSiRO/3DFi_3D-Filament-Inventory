@@ -5,14 +5,18 @@
 </p>
 
 3DFi est un tableau Excel vous permettant de suivre vos consommations en filament 3D.  
-Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus précis possible.  
+Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus précis possible. 
+
+  > [!NOTE]
+>* *Ce tableau est composé de 12 colonnes et 2 feuilles qui ont chacunes, un rôle important.*
+
+ <img src="https://github.com/user-attachments/assets/00fee29d-f7b0-4838-9b5b-6ab21d8734ef"/> 
 
 
 <h2 align="center">Quelles valeurs sont prises en compte ?</h2>  
   
   
-> [!NOTE]
->* *Ce tableau est composé de 12 colonnes qui ont chacunes, un rôle important.*
+
 
 <ins>**1. Colonne "Quantité de bobines(s) :**</ins>
 
