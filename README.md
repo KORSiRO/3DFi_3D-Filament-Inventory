@@ -18,7 +18,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br /><br />
 
-## <ins>Quelles sont les valeurs prises en compte ?</ins>
+## CARACTÉRISTIQUES DU TABLEAU
 
 <br />
 
