@@ -28,6 +28,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 - :flower_playing_cards: ["TD (Hueforge)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
 - :clock130: ["Temps de séchage (mins)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
 - :warning: ["Alerte" et "% restant"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
+- :arrow_heading_down: ["Nouvelle consommation de filament"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament-)
 
 <br />
 
@@ -121,3 +122,6 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > En parallèle, la cellule "% restant" vous donne donc cette information en comparant la colonne "Poids total de(s) bobines neuves (g)" avec la colonne "Poids restant".<br>
 > Quand le poids restant en grammes atteint 30% de la valeur en grammes initiale de la bobine neuve, la ligne complète change de couleur et le texte "⚠️Filament bientôt épuisé" apparait dans la colonne "Alerte".<br>
 > Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine. 
+<br>
+
+### :arrow_heading_down: <ins>"Nouvelle consommation de filament"</ins>
