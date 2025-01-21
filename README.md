@@ -22,13 +22,13 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />
 
-### <ins>:curly_loop: "Quantité de bobine(s)" :</ins>
+### :curly_loop: <ins>"Quantité de bobine(s)" :</ins>
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
 <br />
 
-### <ins>:new: "Poids total de(s) bobines neuves (g)" :</ins>
+### :new: <ins>"Poids total de(s) bobines neuves (g)" :</ins>
 
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
    > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
@@ -55,13 +55,13 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-### <ins>:art: "Couleurs" :</ins>
+### :art: <ins>"Couleurs" :</ins>
 
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
 
 <br />
 
-### <ins>:chart_with_downwards_trend: "Poids restant" :</ins>
+### :chart_with_downwards_trend: <ins>"Poids restant" :</ins>
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
 - Le "Poids total de(s) bobines neuves (g)"
@@ -72,26 +72,26 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 
 <br />
 
-### <ins>:file_folder: "Lieu de stockage" :</ins> 
+### :file_folder: <ins>"Lieu de stockage" :</ins> 
 
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
 
 <br />
 
-### <ins>:flower_playing_cards: "TD (Hueforge)" :</ins>
+### :flower_playing_cards: <ins>"TD (Hueforge)" :</ins>
 
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 
 <br />
 
-### <ins>:clock130: "Temps de séchage (mins)" :</ins>
+### :clock130: <ins>"Temps de séchage (mins)" :</ins>
 
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 
 <br />
 
-### <ins>:warning: "Alerte" et "% restant" :</ins> 
+### :warning: <ins>"Alerte" et "% restant" :</ins> 
 
 Ces deux colonnes sont un peu différentes des autres.  
 Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.
