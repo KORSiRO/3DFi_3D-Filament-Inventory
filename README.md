@@ -30,6 +30,18 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <ins>**3. Colonne "Type de Filament" et "Marque de filament" :**</ins>
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
-</p>
+</p>  
+
+  
+Ces 2 colonnes contiennent 2 listes : "**Type de Filament**" et "**Marque de Filament**".  
+Les sources de ces listes sont disponibles dans la feuille "**Matériaux**".  
+Elles contiennent déjà plus de **150 données pré-enregistrées**.
+
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/adbec5de-0775-45d9-8917-beb034a8c579"/>
+</p>  
+
+Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs type/marque de filament.  
+Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille "**Inventaire**".
 
 
