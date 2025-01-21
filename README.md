@@ -54,17 +54,19 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
 </p>  
 
-Ces 2 colonnes contiennent 2 listes : "**Type de Filament**" et "**Marque de Filament**".  
-Les sources de ces listes sont disponibles dans la feuille "**Matériaux**".  
-Elles contiennent déjà plus de **150 données préenregistrées**.
+Ces 2 colonnes contiennent 2 listes : **`"Type de Filament"`** et **`"Marque de Filament"`**  
+Les sources de ces listes sont disponibles dans la feuille **`"Matériaux"`**  
+Elles contiennent déjà plus de **`150 données préenregistrées`**.
 
 <br />
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/adbec5de-0775-45d9-8917-beb034a8c579"/>
 </p>  
+
 Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs types/marques de filament.  
-Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille "**Inventaire**".
+Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille **`"Inventaire"`**.  
+
 
 <br />
 
@@ -77,8 +79,8 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 ### :chart_with_downwards_trend: <ins>"Poids restant" :</ins>
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
-- Le "Poids total de(s) bobines neuves (g)"
-- La "Nouvelle consommation de filament en (g)"
+- Le **`"Poids total de(s) bobines neuves (g)"`**
+- La **`"Nouvelle consommation de filament en (g)"**
 
   > <ins>Ex :</ins> Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
