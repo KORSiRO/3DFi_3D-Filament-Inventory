@@ -80,7 +80,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
 - Le **`"Poids total de(s) bobines neuves (g)"`**
-- La **`"Nouvelle consommation de filament en (g)"**
+- La **`"Nouvelle consommation de filament en (g)"`**
 
   > <ins>Ex :</ins> Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
