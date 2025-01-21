@@ -18,11 +18,14 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br /><br />
 
+### TABLE DES MATIÈRES:
+- :curly_loop: [Quantité de bobines](#curly_loop-Quantité-de-bobine(s))
+
 ## CARACTÉRISTIQUES DU TABLEAU
 
 <br />
 
-### :curly_loop: <ins>"Quantité de bobine(s)" :</ins>
+### :curly_loop: Quantité de bobines" :
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
