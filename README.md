@@ -25,7 +25,8 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
    > Ex : si vous avez dans votre inventaire 3 bobines de filament Noir de marque Bambu Lab de 1kg chacunes, renseignez "3000g"
    
-<h3 align="center"><ins>3. "Type de Filament" et "Marque de filament" :</ins></h3>
+<h3 align="center"><ins>3. "Type de Filament" et "Marque de filament" :</ins></h3>  
+
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
 </p>  
@@ -64,3 +65,24 @@ Facilite la recherche de vos bobines si elles sont entreposées à différents e
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 
+<h3 align="center"><ins>3. "Temps de séchage (mins)" :</ins></h3>  
+
+Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
+
+<h3 align="center"><ins>3. "Alerte" et "% restant" :</ins></h3>  
+
+Ces deux colonnes sont un peu différentes des autres.  
+Elle vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.
+Aucun besoin de saisir manuellement une valeur, tout est automatisé.  
+
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/1b905135-9b02-408d-80f2-acd02d426dd2"/>
+</p>
+
+
+> Ex : Si vous renseignez un poids total de bobine neuves pour 1 bobine de 1000g et qu'une impression en cours consomme 200g de filament, alors vous renseignez cette valeur (200g) dans la colonne "Nouvelle consommation de filament en (g)".<br>
+> De ce fait, le poids restant sera donc de 800g et sera automatiquement renseigné dans la colonne "Poids restant".<br>
+> En parallèle la cellule "% restant" vous donne donc cette information en comparant la colonne "Poids total de(s) bobines neuves (g)" avec la colonne "Poids restant".<br>
+> Quand le poids restant en grammes atteint 30% de la valeur en grammes initiale de la bobine neuve, la ligne complète change de couleur et le texte "⚠️Filament bientôt épuisé" apparait dans la colonne "Alerte".
+> Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine. 
+> 
