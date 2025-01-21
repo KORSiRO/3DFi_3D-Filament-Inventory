@@ -16,7 +16,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <h2 align="center">Quelles valeurs sont prises en compte ?</h2>  
   
 
-<h3 align="center"><ins>"Quantité de bobine(s) :</ins></h3>  
+<h3 align="center"><ins>"Quantité de bobine(s)" :</ins></h3>  
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
