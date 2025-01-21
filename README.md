@@ -28,7 +28,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 - :flower_playing_cards: ["TD (Hueforge)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
 - :clock130: ["Temps de séchage (mins)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
 - :warning: ["Alerte" et "% restant"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
-- :arrow_heading_down: ["Nouvelle consommation de filament"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament-)
+- :arrow_heading_down: ["Nouvelle consommation de filament"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
 
 <br />
 
