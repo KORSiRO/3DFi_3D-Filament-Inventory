@@ -23,7 +23,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <h3 align="center"><ins>2. "Poids total de(s) bobines neuves (g)" :</ins></h3>
 
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
-   > Ex : si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
+   > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
    
 <h3 align="center"><ins>3. "Type de Filament" et "Marque de filament" :</ins></h3>  
 
