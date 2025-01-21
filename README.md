@@ -13,7 +13,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
  <img src="https://github.com/user-attachments/assets/00fee29d-f7b0-4838-9b5b-6ab21d8734ef"/> 
 
 
-<h2 align="center">Quelles valeurs sont prises en compte ?</h2>  
+<h2 align="center">Quelles sont les valeurs prises en compte ?</h2>  
   
 
 <h3 align="center"><ins>"Quantité de bobine(s)" :</ins></h3>  
