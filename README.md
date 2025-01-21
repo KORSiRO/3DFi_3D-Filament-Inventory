@@ -35,7 +35,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />   
 
-### <ins>"Type de Filament" et "Marque de filament" :</ins>
+### :memo: <ins>"Type de Filament" et "Marque de filament" :</ins>
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
