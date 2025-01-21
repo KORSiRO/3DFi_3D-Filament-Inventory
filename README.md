@@ -19,26 +19,36 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <br /><br />
 
 ### TABLE DES MATIÈRES:
-- :curly_loop: [Quantité de bobines](#curly_loop-Quantité-de-bobine(s))
+- :curly_loop: ["Quantité-de-bobine(s)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
+- :new: ["Poids total de(s) bobines neuves (g)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#new-poids-total-des-bobines-neuves-g-)
+- :memo: ["Type de Filament" et "Marque de filament"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#memo-type-de-filament-et-marque-de-filament-)
+- :art: ["Couleurs"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#art-couleurs-)
+- :chart_with_downwards_trend: ["Poids restant"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#chart_with_downwards_trend-poids-restant-)
+- :file_folder: ["Lieu de stockage"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#file_folder-lieu-de-stockage-)
+- :flower_playing_cards: ["TD (Hueforge)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
+- :clock130: ["Temps de séchage (mins)"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
+- :warning: ["Alerte" et "% restant"](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
+
+<br />
 
 ## CARACTÉRISTIQUES DU TABLEAU
 
 <br />
 
-### :curly_loop: Quantité de bobines" :
+### :curly_loop: "Quantité de bobine(s)" :
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
 <br />
 
-### :new: <ins>"Poids total de(s) bobines neuves (g)" :</ins>
+### :new: "Poids total de(s) bobines neuves (g)" :
 
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
    > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
 
 <br />   
 
-### :memo: <ins>"Type de Filament" et "Marque de filament" :</ins>
+### :memo: "Type de Filament" et "Marque de filament" :
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
@@ -58,7 +68,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-### :art: <ins>"Couleurs" :</ins>
+### :art: "Couleurs" :
 
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
 
