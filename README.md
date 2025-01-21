@@ -1,4 +1,4 @@
-<h1 align="center">3DFi 3D Filament Inventory</h1>
+<h1 align="center">3DFi - 3D Filament Inventory</h1>
 
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/31af8efe-ef62-400f-9212-5ce13b734101"/>  
