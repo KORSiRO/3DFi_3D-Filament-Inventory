@@ -8,6 +8,8 @@
 
 ### :page_with_curl: [README in English](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_english.md) :arrow_left:
 
+### ⬇️ [Téléchargement version Beta](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases)
+
 <br />
 
 3DFi est un tableau Excel vous permettant de suivre vos consommations en filament 3D.  
