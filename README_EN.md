@@ -121,7 +121,7 @@ They tell you with text and a bright color that your filament is almost exhauste
 No need to manually enter a value, everything is automated.  
 
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/1b905135-9b02-408d-80f2-acd02d426dd2"/>
+<img src="https://github.com/user-attachments/assets/375273c1-49d3-4407-9b73-8b8c07cb00ba"/>
 </p>
 
 > <ins>Ex:</ins> If you enter a total weight of new spools for 1 spool of 1000g and a print in progress consumes 200g of filament, then you enter this value (200g) in the "New consumption" column of filament in (g)".<br>
