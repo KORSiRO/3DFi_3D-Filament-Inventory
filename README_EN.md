@@ -13,7 +13,7 @@
 
 <br />
 
-3DFi is an Excel spreadsheet that allows you to track your 3D filament consumption. 
+3DFi is an Excel spreadsheet that allows you to track your 3D filament consumption.<br>
 Several values are taken into account to allow you to be as accurate as possible.
 
 <br />
