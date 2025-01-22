@@ -133,9 +133,11 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 ### :arrow_heading_down: <ins>"Nouvelle consommation de filament"</ins>  
 
 Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
+Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
+Si vous renseignez donc une **`Nouvelle consommation de filament`** la soustraction continue donc à partir du dernier poids en mémoire.
 
 > <ins>Ex :</ins> Quand vous renseignez un poids restant de par exemple 800g et qu'une impression prévoit d'utiliser 200g de filament,<br>
-> en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>
+> en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>*
 > Toujours pour vous permettre d'avoir un suivi précis de votre utilisation.
 <br /><br />
 
