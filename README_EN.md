@@ -25,16 +25,17 @@ Several values are taken into account to allow you to be as accurate as possible
 <br /><br />
 
 ### TABLE OF CONTENTS:
-- :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
-- :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#new-poids-total-des-bobines-neuves-g-)
-- :memo: [Filament Type" and "Filament Brand](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#memo-type-de-filament-et-marque-de-filament-)
-- :art: [Colors](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#art-couleurs-)
-- :chart_with_downwards_trend: [Remaining weight (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#chart_with_downwards_trend-poids-restant-)
-- :file_folder: [Storage Location](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#file_folder-lieu-de-stockage-)
-- :flower_playing_cards: [TD (Hueforge)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
-- :clock130: [Drying time (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
-- :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
-- :arrow_heading_down: [New filament consumption (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
+- :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#curly_loop-spools-quantity-)
+- :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#new-total-weight-of-new-spools-g-)
+- :memo: [Filament Type" and "Filament Brand](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#memo-filament-type-and-filament-brand-)
+- :art: [Colors](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#art-colors-)
+- :chart_with_downwards_trend: [Remaining weight (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#chart_with_downwards_trend-remaining-weight-g-)
+- :file_folder: [Storage Location](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#file_folder-storage-location-)
+- :flower_playing_cards: [TD (Hueforge)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#flower_playing_cards-td-hueforge-)
+- :clock130: [Drying time (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#clock130-drying-time-mins-)
+- :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#warning-alert-et--remaining-)
+- :arrow_heading_down: [New filament consumption (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#arrow_heading_down-nouvelle-consommation-de-filament)
+- 🔲 [Cancel modification Macro](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#black_square_button-macro-annuler-la-modification)
 
 <br />
 
