@@ -8,62 +8,62 @@
 
 ### :page_with_curl: [README in English](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_english.md) :arrow_left:
 
-### ⬇️ [Téléchargement version Beta](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases)
+### ⬇️ [Download Beta version](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases)
 
 <br />
 
-3DFi est un tableau Excel vous permettant de suivre vos consommations en filament 3D.  
-Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus précis possible. 
+3DFi is an Excel spreadsheet that allows you to track your 3D filament consumption. 
+Several values are taken into account to allow you to be as accurate as possible.
 
 <br />
 
 > [!NOTE]
->* *Ce tableau est composé de 12 colonnes et 2 feuilles qui ont chacune un rôle important.*
+>* *This table consists of 12 columns and 2 sheets, each of which has an important role.*
 
  <img src="https://github.com/user-attachments/assets/00fee29d-f7b0-4838-9b5b-6ab21d8734ef"/> 
 
 <br /><br />
 
-### TABLE DES MATIÈRES:
-- :curly_loop: [Quantité-de-bobine(s)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
-- :new: [Poids total de(s) bobines neuves (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#new-poids-total-des-bobines-neuves-g-)
-- :memo: [Type de Filament" et "Marque de filament](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#memo-type-de-filament-et-marque-de-filament-)
-- :art: [Couleurs](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#art-couleurs-)
-- :chart_with_downwards_trend: [Poids restant](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#chart_with_downwards_trend-poids-restant-)
-- :file_folder: [Lieu de stockage](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#file_folder-lieu-de-stockage-)
+### TABLE OF CONTENTS:
+- :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
+- :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#new-poids-total-des-bobines-neuves-g-)
+- :memo: [Filament Type" and "Filament Brand](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#memo-type-de-filament-et-marque-de-filament-)
+- :art: [Colors](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#art-couleurs-)
+- :chart_with_downwards_trend: [Remaining weight (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#chart_with_downwards_trend-poids-restant-)
+- :file_folder: [Storage Location](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#file_folder-lieu-de-stockage-)
 - :flower_playing_cards: [TD (Hueforge)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
-- :clock130: [Temps de séchage (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
-- :warning: [Alerte" et "% restant](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
-- :arrow_heading_down: [Nouvelle consommation de filament](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
+- :clock130: [Drying time (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
+- :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
+- :arrow_heading_down: [New filament consumption (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
 
 <br />
 
-## :clipboard: CARACTÉRISTIQUES DU TABLEAU
+## :clipboard: TABLE FEATURES
 
 <br />
 
-### :curly_loop: Quantité de bobine(s) :
+### :curly_loop: Spool(s) Quantity :
 
-   Présente pour renseigner le nombre de bobines identiques pour une même ligne.
+   Present to indicate the number of identical reels for the same line.
 
 <br />
 
-### :new: Poids total de(s) bobines neuves (g) :
+### :new: Total weight of new spool(s) (g) :
 
-   Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
-   > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
+   Present to provide the total weight in grams of the identical spool(s) for the same line.
+   > <ins>Ex:</ins> if you have in your inventory 3 spools of Bambu Lab brand black filament of 1kg each, enter "3000g"
 
 <br />   
 
-### :memo: Type de Filament" et "Marque de filament :
+### :memo: Filament Type" and "Filament Brand :
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
 </p>  
 
-Ces 2 colonnes contiennent 2 listes : **`"Type de Filament"`** et **`"Marque de Filament"`**  
-Les sources de ces listes sont disponibles dans la feuille **`"Matériaux"`**  
-Elles contiennent déjà plus de **`150 données préenregistrées`**.
+These 2 columns contain 2 lists: **`"Filament Type"`** and **`"Filament Brand"`**  
+The sources for these lists are available in the **`"Materials"`** sheet.  
+They already contain more than **`150 pre-recorded data`**.
 
 <br />
 
@@ -71,88 +71,87 @@ Elles contiennent déjà plus de **`150 données préenregistrées`**.
 <img src="https://github.com/user-attachments/assets/adbec5de-0775-45d9-8917-beb034a8c579"/>
 </p>  
 
-Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs types/marques de filament.  
-Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille **`"Inventaire"`**.  
-
-
-<br />
-
-### :art: Couleurs :
-
-  Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
+These lists can be modified to add one or more filament types/brands.  
+Simply add what you want in the corresponding column so that you can then find it in the list of the corresponding column on the **`"Inventory"`** sheet.
 
 <br />
 
-### :chart_with_downwards_trend: <ins>Poids restant :</ins>
+### :art: Colors :
 
-Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
-- Le **`"Poids total de(s) bobines neuves (g)"`**
-- La **`"Nouvelle consommation de filament en (g)"`**
-
-  > <ins>Ex :</ins> Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
-  > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
+  As you will have understood, this column supports the color of the filament. 
 
 <br />
 
-### :file_folder: <ins>Lieu de stockage :</ins> 
+### :chart_with_downwards_trend: Remaining weight (g) :
 
-Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
+This column allows you to obtain the remaining weight of a reel taking into account 2 values:  
+- The **`"Total weight of new spool(s) (g)"`**
+- The **`"New filament consumption in (g)"`**<br>
 
-<br />
-
-### :flower_playing_cards: <ins>TD (Hueforge) :</ins>
-
-La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
-Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
+  > <ins>Ex:</ins> If you enter 1 spool of 1000g (new) on the first line and you wish to deduct the quantity of filament used by a print in progress in the column "New filament consumption in (g )",
+  > an automatic subtraction is carried out in the "Remaining weight" column to give you the most accurate result possible of the remaining quantity.
 
 <br />
 
-### :clock130: <ins>Temps de séchage (mins) :</ins>
+### :file_folder: Storage Location :
 
-Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
+Makes it easier to find your reels if they are stored in different places in your workshop, office or dedicated room. 
 
 <br />
 
-### :warning: <ins>Alerte" et "% restant :</ins> 
+### :flower_playing_cards: TD (Hueforge) :
 
-Ces deux colonnes sont un peu différentes des autres.  
-Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.  
-Aucun besoin de saisir manuellement une valeur, tout est automatisé.  
+HueForge's TD is a number indicating the amount of light the filament lets through.  
+Useful if you often print Hueforge to have this value quickly in front of you depending on the filament used.
+
+<br />
+
+### :clock130: Drying Time (mins) :
+
+As for "TD (Hueforge)" it is a value that is interesting to have in front of you quickly when you need it.
+
+<br />
+
+### :warning: Alert" et "% remaining : 
+
+These two columns are a little different from the others.  
+They tell you with text and a bright color that your filament is almost exhausted.  
+No need to manually enter a value, everything is automated.  
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/1b905135-9b02-408d-80f2-acd02d426dd2"/>
 </p>
 
-> <ins>Ex :</ins> Si vous renseignez un poids total de bobines neuves pour 1 bobine de 1000g et qu'une impression en cours consomme 200g de filament, alors vous renseignez cette valeur (200g) dans la colonne "Nouvelle consommation de filament en (g)".<br>
-> De ce fait, le poids restant sera donc de 800g et sera automatiquement renseigné dans la colonne "Poids restant".<br>
-> En parallèle, la cellule "% restant" vous donne donc cette information en comparant la colonne "Poids total de(s) bobines neuves (g)" avec la colonne "Poids restant".<br>
-> Quand le poids restant en grammes atteint 30% de la valeur en grammes initiale de la bobine neuve, la ligne complète change de couleur et le texte "⚠️Filament bientôt épuisé" apparait dans la colonne "Alerte".<br>
-> Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine. 
+> <ins>Ex:</ins> If you enter a total weight of new spools for 1 spool of 1000g and a print in progress consumes 200g of filament, then you enter this value (200g) in the "New consumption" column of filament in (g)".<br>
+> As a result, the remaining weight will therefore be 800g and will be automatically entered in the “Remaining weight” column.<br>
+> At the same time, the “% remaining” cell gives you this information by comparing the “Total weight of new spool(s) (g)” column with the “Remaining weight” column.<br>
+> When the remaining weight in grams reaches 30% of the initial value in grams of the new spool, the complete line changes color and the text "⚠️Filament soon exhausted" appears in the "Alert" column.<br>
+> Giving you the information to think about replacing your spool shortly. 
 <br>
 
 ### :arrow_heading_down: <ins>Nouvelle consommation de filament</ins>  
 
-Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
-Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
-Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction continue donc à partir du dernier poids en mémoire.
+Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
+The last weight that appears in the **`"Remaining weight"`** column is in memory.<br>
+If you enter a **`New filament consumption`** the subtraction continues from the last weight in memory.
 
-> <ins>Ex :</ins> Si vous renseignez un poids restant de par exemple 800g et qu'une impression prévoit d'utiliser 200g de filament,<br>
-> en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>*
-> Toujours pour vous permettre d'avoir un suivi précis de votre utilisation.
-> 
+> <ins>Ex:</ins> If you enter a remaining weight of for example 800g and a print plans to use 200g of filament,<br>
+> by entering the value of 200g in the column **`"New filament consumption in (g)"`** the remaining weight is automatically adjusted (800-200 = 600g remaining).<br>*
+> Always to allow you to have precise monitoring of your usage.
+
 <br /><br />
 
 ### :black_square_button: <ins>"Macro "Annuler la modification"</ins>  
 
-Grâce à cette macro (bouton) vous pouvez annuler la dernière modification apportée à la colonne **`Poids restant`** par rapport à une valeur entrée dans la colonne **`Nouvelle consommation de filament`**<br>
-Cette macro fonctionne à chaque appuie : annulation de la modification précédente.  
+Using this macro (button) you can cancel the last modification made to the **`Remaining weight`** column in relation to a value entered in the **`New filament consumption`** column<br>
+This macro works with each press: cancellation of the previous modification.  
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/ddbad7d7-3324-48e3-a90c-1d06ba1b6f30"/>
 </p>
 
-> <ins>Ex :</ins> Si vous renseignez une poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
-> ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseignée dans Nouvelle consommation de filament.<br>
+> <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
+> this button (macro) allows you, as its name suggests, to cancel the last modification made to the Remaining weight column compared to the value entered in New filament consumption.<br>
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
