@@ -137,7 +137,7 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine. 
 <br>
 
-### :arrow_heading_down: Nouvelle consommation de filament  
+### :arrow_heading_down: Nouvelle consommation de filament : 
 
 Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
 Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
@@ -151,7 +151,7 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 > 
 <br /><br />
 
-### :black_square_button: Macro Annuler la modification  
+### :black_square_button: Macro Annuler la modification :  
 
 Grâce à cette macro (bouton) vous pouvez annuler la dernière modification apportée à la colonne **`Poids restant`** par rapport à une valeur entrée dans la colonne **`Nouvelle consommation de filament`**<br>
 Cette macro fonctionne à chaque appuie : annulation de la modification précédente.  
