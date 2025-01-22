@@ -53,6 +53,9 @@ Several values are taken into account to allow you to be as accurate as possible
 ### :new: Total weight of new spool(s) (g) :
 
    Present to provide the total weight in grams of the identical spool(s) for the same line.
+   
+   <br>
+   
    > <ins>Ex:</ins> if you have in your inventory 3 spools of Bambu Lab brand black filament of 1kg each, enter "3000g"
 
 <br />   
@@ -90,6 +93,8 @@ This column allows you to obtain the remaining weight of a reel taking into acco
 - The **`"Total weight of new spool(s) (g)"`**
 - The **`"New filament consumption in (g)"`**<br>
 
+<br>
+
   > <ins>Ex:</ins> If you enter 1 spool of 1000g (new) on the first line and you wish to deduct the quantity of filament used by a print in progress in the column "New filament consumption in (g )",
   > an automatic subtraction is carried out in the "Remaining weight" column to give you the most accurate result possible of the remaining quantity.
 
@@ -124,6 +129,8 @@ No need to manually enter a value, everything is automated.
 <img src="https://github.com/user-attachments/assets/375273c1-49d3-4407-9b73-8b8c07cb00ba"/>
 </p>
 
+<br>
+
 > <ins>Ex:</ins> If you enter a total weight of new spools for 1 spool of 1000g and a print in progress consumes 200g of filament, then you enter this value (200g) in the "New consumption" column of filament in (g)".<br>
 > As a result, the remaining weight will therefore be 800g and will be automatically entered in the “Remaining weight” column.<br>
 > At the same time, the “% remaining” cell gives you this information by comparing the “Total weight of new spool(s) (g)” column with the “Remaining weight” column.<br>
@@ -136,6 +143,8 @@ No need to manually enter a value, everything is automated.
 Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
 The last weight that appears in the **`"Remaining weight"`** column is in memory.<br>
 If you enter a **`New filament consumption`** the subtraction continues from the last weight in memory.
+
+<br>
 
 > <ins>Ex:</ins> If you enter a remaining weight of for example 800g and a print plans to use 200g of filament,<br>
 > by entering the value of 200g in the column **`"New filament consumption in (g)"`** the remaining weight is automatically adjusted (800-200 = 600g remaining).<br>*
@@ -151,6 +160,8 @@ This macro works with each press: cancellation of the previous modification.
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/363b2807-f869-4251-a2e5-820e2e901deb"/>
 </p>
+
+<br>
 
 > <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
 > this button (macro) allows you, as its name suggests, to cancel the last modification made to the Remaining weight column compared to the value entered in New filament consumption.<br>
