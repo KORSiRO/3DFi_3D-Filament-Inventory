@@ -130,7 +130,7 @@ No need to manually enter a value, everything is automated.
 > Giving you the information to think about replacing your spool shortly. 
 <br>
 
-### :arrow_heading_down: <ins>Nouvelle consommation de filament</ins>  
+### :arrow_heading_down: New filament consumption (g) : 
 
 Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
 The last weight that appears in the **`"Remaining weight"`** column is in memory.<br>
@@ -142,7 +142,7 @@ If you enter a **`New filament consumption`** the subtraction continues from the
 
 <br /><br />
 
-### :black_square_button: <ins>"Macro "Annuler la modification"</ins>  
+### :black_square_button: Cancel modification Macro : 
 
 Using this macro (button) you can cancel the last modification made to the **`Remaining weight`** column in relation to a value entered in the **`New filament consumption`** column<br>
 This macro works with each press: cancellation of the previous modification.  
