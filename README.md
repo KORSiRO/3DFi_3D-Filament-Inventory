@@ -145,14 +145,14 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 ### :black_square_button: <ins>"Macro "Annuler la modification"</ins>  
 
 Grâce à cette macro (bouton) vous pouvez annuler la dernière modification apportée à la colonne **`Poids restant`** par rapport à une valeur entrée dans la colonne **`Nouvelle consommation de filament`**<br>
+Cette macro fonctionne à chaque appuie : annulation de la modification précédente.  
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/ddbad7d7-3324-48e3-a90c-1d06ba1b6f30"/>
 </p>
 
 > <ins>Ex :</ins> Si vous renseignez une poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
-> ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant.
-> Sans devoir entrer une nouvelle valeur dans la colonne Nouvelle consommation de filament pour rattraper votre erreur
+> ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant.<br>
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
