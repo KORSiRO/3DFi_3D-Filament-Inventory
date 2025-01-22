@@ -58,7 +58,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />   
 
-### :memo: Type de Filament" et "Marque de filament :
+### :memo: Type de Filament et Marque de filament :
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
@@ -86,7 +86,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-### :chart_with_downwards_trend: <ins>Poids restant :</ins>
+### :chart_with_downwards_trend: Poids restant :
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
 - Le **`"Poids total de(s) bobines neuves (g)"`**
@@ -99,26 +99,26 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 
 <br />
 
-### :file_folder: <ins>Lieu de stockage :</ins> 
+### :file_folder: Lieu de stockage :
 
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
 
 <br />
 
-### :flower_playing_cards: <ins>TD (Hueforge) :</ins>
+### :flower_playing_cards: TD (Hueforge) :
 
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 
 <br />
 
-### :clock130: <ins>Temps de séchage (mins) :</ins>
+### :clock130: Temps de séchage (mins) :
 
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 
 <br />
 
-### :warning: <ins>Alerte" et "% restant :</ins> 
+### :warning: Alerte et % restant :
 
 Ces deux colonnes sont un peu différentes des autres.  
 Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.  
@@ -137,7 +137,7 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine. 
 <br>
 
-### :arrow_heading_down: <ins>Nouvelle consommation de filament</ins>  
+### :arrow_heading_down: Nouvelle consommation de filament  
 
 Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
 Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
@@ -151,7 +151,7 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 > 
 <br /><br />
 
-### :black_square_button: <ins>"Macro "Annuler la modification"</ins>  
+### :black_square_button: Macro Annuler la modification  
 
 Grâce à cette macro (bouton) vous pouvez annuler la dernière modification apportée à la colonne **`Poids restant`** par rapport à une valeur entrée dans la colonne **`Nouvelle consommation de filament`**<br>
 Cette macro fonctionne à chaque appuie : annulation de la modification précédente.  
