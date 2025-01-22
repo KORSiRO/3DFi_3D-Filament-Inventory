@@ -51,6 +51,9 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 ### :new: Poids total de(s) bobines neuves (g) :
 
    Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.
+   
+   <br>
+   
    > <ins>Ex :</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
 
 <br />   
@@ -89,6 +92,8 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 - Le **`"Poids total de(s) bobines neuves (g)"`**
 - La **`"Nouvelle consommation de filament en (g)"`**
 
+<br>
+
   > <ins>Ex :</ins> Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
 
@@ -123,6 +128,8 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 <img src="https://github.com/user-attachments/assets/1b905135-9b02-408d-80f2-acd02d426dd2"/>
 </p>
 
+<br>
+
 > <ins>Ex :</ins> Si vous renseignez un poids total de bobines neuves pour 1 bobine de 1000g et qu'une impression en cours consomme 200g de filament, alors vous renseignez cette valeur (200g) dans la colonne "Nouvelle consommation de filament en (g)".<br>
 > De ce fait, le poids restant sera donc de 800g et sera automatiquement renseigné dans la colonne "Poids restant".<br>
 > En parallèle, la cellule "% restant" vous donne donc cette information en comparant la colonne "Poids total de(s) bobines neuves (g)" avec la colonne "Poids restant".<br>
@@ -135,6 +142,8 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
 Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
 Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction continue donc à partir du dernier poids en mémoire.
+
+<br>
 
 > <ins>Ex :</ins> Si vous renseignez un poids restant de par exemple 800g et qu'une impression prévoit d'utiliser 200g de filament,<br>
 > en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>*
@@ -150,6 +159,8 @@ Cette macro fonctionne à chaque appuie : annulation de la modification précéd
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/ddbad7d7-3324-48e3-a90c-1d06ba1b6f30"/>
 </p>
+
+<br>
 
 > <ins>Ex :</ins> Si vous renseignez une poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
 > ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseignée dans Nouvelle consommation de filament.<br>
