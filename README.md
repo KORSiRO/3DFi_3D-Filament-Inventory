@@ -152,7 +152,7 @@ Cette macro fonctionne à chaque appuie : annulation de la modification précéd
 </p>
 
 > <ins>Ex :</ins> Si vous renseignez une poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
-> ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseigner dans Nouvelle consommation de filament.<br>
+> ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseignée dans Nouvelle consommation de filament.<br>
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
