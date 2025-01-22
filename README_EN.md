@@ -60,7 +60,7 @@ Several values are taken into account to allow you to be as accurate as possible
 ### :memo: Filament Type" and "Filament Brand :
 
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
+<img src="https://github.com/user-attachments/assets/39a6704a-9d40-4134-b052-baa9dc709743"/>
 </p>  
 
 These 2 columns contain 2 lists: **`"Filament Type"`** and **`"Filament Brand"`**  
