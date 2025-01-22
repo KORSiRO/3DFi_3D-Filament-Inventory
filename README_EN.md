@@ -70,7 +70,7 @@ They already contain more than **`150 pre-recorded data`**.
 <br />
 
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/adbec5de-0775-45d9-8917-beb034a8c579"/>
+<img src="https://github.com/user-attachments/assets/9f642785-ef45-4da9-bb6b-6d1ad0d2ab7c"/>
 </p>  
 
 These lists can be modified to add one or more filament types/brands.  
