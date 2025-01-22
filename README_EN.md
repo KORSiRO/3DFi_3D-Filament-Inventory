@@ -82,6 +82,8 @@ This column allows you to obtain the remaining weight of a reel taking into acco
 - The **`"Total weight of new spool(s) (g)"`**
 - The **`"New filament consumption in (g)"`**<br>
 
+<br />
+
 > <ins>Ex:</ins> If you enter 1 spool of 1000g (new) on the first line and you wish to deduct the quantity of filament used by a print in progress in the column "New filament consumption in (g )",
 > an automatic subtraction is carried out in the "Remaining weight" column to give you the most accurate result possible of the remaining quantity.
 <br />
@@ -115,6 +117,8 @@ No need to manually enter a value, everything is automated.
 <img src="https://github.com/user-attachments/assets/1b905135-9b02-408d-80f2-acd02d426dd2"/>
 </p>
 
+<br />
+
 > <ins>Ex:</ins> If you enter a total weight of new spools for 1 spool of 1000g and a print in progress consumes 200g of filament, then you enter this value (200g) in the "New consumption" column of filament in (g)".<br>
 > As a result, the remaining weight will therefore be 800g and will be automatically entered in the “Remaining weight” column.<br>
 > At the same time, the “% remaining” cell gives you this information by comparing the “Total weight of new spool(s) (g)” column with the “Remaining weight” column.<br>
@@ -124,12 +128,14 @@ No need to manually enter a value, everything is automated.
 
 ### :arrow_heading_down: <ins>"New filament consumption"</ins>  
 
-Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
+Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.<br>
+<br />
 
 > <ins>Ex:</ins> When you enter a remaining weight of for example 800g and a print plans to use 200g of filament,<br>
 > by entering the value of 200g in the column **`"New filament consumption in (g)"`** the remaining weight is automatically adjusted (800-200 = 600g remaining).<br>
 > Always to allow you to have precise monitoring of your usage.
-<br /><br />
+
+<br />
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
