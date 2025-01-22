@@ -7,7 +7,7 @@
 
 <br />
 
-### :page_with_curl: [README in French](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md) :arrow_left:
+### :page_with_curl: [README en Français](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md) :arrow_left:
 
 ### ⬇️ [Download Beta version](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases)
 
