@@ -166,6 +166,8 @@ This macro works with each press: cancellation of the previous modification.
 > <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
 > this button (macro) allows you, as its name suggests, to cancel the last modification made to the Remaining weight column compared to the value entered in New filament consumption.<br>
 
+<br />
+
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
 
