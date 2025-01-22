@@ -148,7 +148,7 @@ Using this macro (button) you can cancel the last modification made to the **`Re
 This macro works with each press: cancellation of the previous modification.  
 
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/ddbad7d7-3324-48e3-a90c-1d06ba1b6f30"/>
+<img src="https://github.com/user-attachments/assets/363b2807-f869-4251-a2e5-820e2e901deb"/>
 </p>
 
 > <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
