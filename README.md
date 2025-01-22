@@ -131,4 +131,9 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > <ins>Ex :</ins> Quand vous renseignez un poids restant de par exemple 800g et qu'une impression prévoit d'utiliser 200g de filament,<br>
 > en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>
 > Toujours pour vous permettre d'avoir un suivi précis de votre utilisation.
+<br /><br />
 
+## Support me  
+<a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/korsiro)
