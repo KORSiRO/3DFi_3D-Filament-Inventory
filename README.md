@@ -35,6 +35,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 - :clock130: [Temps de séchage (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#flower_playing_cards-td-hueforge-)
 - :warning: [Alerte" et "% restant](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
 - :arrow_heading_down: [Nouvelle consommation de filament](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
+- :black_square_button: [Macro Annuler la modification](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory#black_square_button-macro-annuler-la-modification-)
 
 <br />
 
