@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/9f779b33-d471-48b4-b958-70309060eb05
 
 ### :arrow_right: [README en Français](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_FR.md)
 
-### ⬇️ [Download Beta version](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases/tag/v1.0beta)
+### ⬇️ [Download Beta version](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases/tag/v1.0)
 
 <br />
 
