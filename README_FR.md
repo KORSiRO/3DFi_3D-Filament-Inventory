@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/31af8efe-ef62-400f-9212-5ce13b734101"/>  
 </p>
 
+https://github.com/user-attachments/assets/3a11581f-6cfb-4388-8886-083efe4339c8
+</p>
 <br />
 
 ### :arrow_right: [README in English](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md)
