@@ -20,7 +20,7 @@ Several values are taken into account to allow you to be as accurate as possible
 > [!NOTE]
 >* *This table consists of 16 columns and 2 sheets, each of which has an important role.*
 
-<br /><br />
+<br />
 
 ### TABLE OF CONTENTS:
 - :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#curly_loop-spools-quantity-)
