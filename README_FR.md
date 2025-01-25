@@ -45,7 +45,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />
 
-### :curly_loop: Quantité de bobine(s)
+- ### :curly_loop: Quantité de bobine(s)
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -55,7 +55,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 <br />
 
-### :new: Poids total de(s) bobines neuves (g)
+- ### :new: Poids total de(s) bobines neuves (g)
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -69,7 +69,7 @@ Présente pour renseigner le poids total en grammes du ou des bobines identiques
 
 <br />   
 
-### :memo: Type de Filament et Marque de filament
+- ### :memo: Type de Filament et Marque de filament
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -94,7 +94,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-### :art: Couleurs
+- ### :art: Couleurs
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -104,7 +104,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-### :chart_with_downwards_trend: Poids restant (g)
+- ### :chart_with_downwards_trend: Poids restant (g)
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -121,7 +121,7 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 
 <br />
 
-### :file_folder: Lieu de stockage
+- ### :file_folder: Lieu de stockage
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -131,7 +131,7 @@ Facilite la recherche de vos bobines si elles sont entreposées à différents e
 
 <br />
 
-### :flower_playing_cards: TD (Hueforge)
+- ### :flower_playing_cards: TD (Hueforge)
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -142,7 +142,7 @@ Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous
 
 <br />
 
-### :clock130: Temps de séchage (mins)
+- ### :clock130: Temps de séchage (mins)
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -152,7 +152,7 @@ Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous l
 
 <br />
 
-### :warning: Alerte et % restant
+- ### :warning: Alerte et % restant
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -176,7 +176,7 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
  
 <br />
 
-### :arrow_heading_down: Nouvelle consommation de filament 
+- ### :arrow_heading_down: Nouvelle consommation de filament 
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -194,7 +194,7 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 
 <br />
 
-### :black_square_button: Macro Annuler la modification 
+- ### :black_square_button: Macro Annuler la modification 
 <details>
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
@@ -214,7 +214,7 @@ Cette macro fonctionne à chaque appuie et annule la modification précédente.
 
 <br />
 
-## Support me  
+- ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/korsiro)
