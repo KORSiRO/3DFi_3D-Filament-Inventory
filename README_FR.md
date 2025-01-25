@@ -146,7 +146,31 @@ Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 </details>
 
+- ### :fire: Température Buse/Plateau 
+<details>
 
+<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+
+Ai-je réellement besoin de vous expliquez l'utilité de cette cellule ? :stuck_out_tongue_winking_eye:
+</details>  
+
+- ### :sweat_drops: Débit
+<details>
+
+<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+
+Vraiment ? Vous vous posez la question ? 
+Bien entendu que cette cellule est là pour le style :sweat_smile:
+</details>  
+
+- ### :bar_chart: Facteur K
+<details>
+
+<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+
+Pour rappel, le Facteur K est une valeur qui sert à déterminer la vitesse maximale de l’impression tout en limitant les vibrations mécanique.<br>
+En d'autres termes, le Facteur K permet d’ajuster l’accélération dans le mouvement des axes pour garantir un bon équilibre entre rapidité et qualité
+</details>  
 
 - ### :warning: Alerte et % restant
 <details>
