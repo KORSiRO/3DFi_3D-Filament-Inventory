@@ -1,11 +1,9 @@
 <h1 align="center">3DFi - 3D Filament Inventory</h1>
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/31af8efe-ef62-400f-9212-5ce13b734101"/>  
+  <img src="https://github.com/user-attachments/assets/141355e5-7a55-435e-9cd0-d3706a72bd73"/>  
 </p>
 
-https://github.com/user-attachments/assets/3a11581f-6cfb-4388-8886-083efe4339c8
-</p>
 <br />
 
 ### :arrow_right: [README in English](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md)
@@ -53,7 +51,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 </details>
 
-<br />
+
 
 - ### :new: Poids total de(s) bobines neuves (g)
 <details>
@@ -62,12 +60,12 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 
 Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.  
   
-<br />
+
    
    > Ex : si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
 </details>
 
-<br />   
+ 
 
 - ### :memo: Type de Filament et Marque de filament
 <details>
@@ -92,7 +90,7 @@ Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs types/ma
 Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille **`"Inventaire"`**.  
 </details>
 
-<br />
+
 
 - ### :art: Couleurs
 <details>
@@ -102,7 +100,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
 </details>
 
-<br />
+
 
 - ### :chart_with_downwards_trend: Poids restant (g)
 <details>
@@ -113,13 +111,13 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 - Le **`"Poids total de(s) bobines neuves (g)"`** 
 - La **`"Nouvelle consommation de filament en (g)"`** 
 
-<br />
+
 
   > Ex : Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
 </details>
 
-<br />
+
 
 - ### :file_folder: Lieu de stockage
 <details>
@@ -129,7 +127,7 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
 </details>
 
-<br />
+
 
 - ### :flower_playing_cards: TD (Hueforge)
 <details>
@@ -140,7 +138,7 @@ La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité 
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 </details>
 
-<br />
+
 
 - ### :clock130: Temps de séchage (mins)
 <details>
@@ -150,7 +148,7 @@ Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 </details>
 
-<br />
+
 
 - ### :warning: Alerte et % restant
 <details>
@@ -174,7 +172,7 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine.
 </details>
  
-<br />
+
 
 - ### :arrow_heading_down: Nouvelle consommation de filament 
 <details>
@@ -192,7 +190,7 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 > Toujours pour vous permettre d'avoir un suivi précis de votre utilisation.
 </details>
 
-<br />
+
 
 - ### :black_square_button: Macro Annuler la modification 
 <details>
