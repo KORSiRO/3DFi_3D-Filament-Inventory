@@ -41,21 +41,27 @@ Several values are taken into account to allow you to be as accurate as possible
 
 
 ### :curly_loop: Spool(s) Quantity :
+<details>
 
-   Present to indicate the number of identical reels for the same line.
-
+<summary>Click to expand :arrow_down_small:</summary><br>
+Present to indicate the number of identical reels for the same line.
+</details> 
 
 ### :new: Total weight of new spool(s) (g) :
+<details>
 
-   Present to provide the total weight in grams of the identical spool(s) for the same line.
+<summary>Click to expand :arrow_down_small:</summary><br>
+Present to provide the total weight in grams of the identical spool(s) for the same line.
    
-   <br>
+<br>
    
-   > <ins>Ex:</ins> if you have in your inventory 3 spools of Bambu Lab brand black filament of 1kg each, enter "3000g"
- 
+> <ins>Ex:</ins> if you have in your inventory 3 spools of Bambu Lab brand black filament of 1kg each, enter "3000g"
+</details> 
 
 ### :memo: Filament Type" and "Filament Brand :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/39a6704a-9d40-4134-b052-baa9dc709743"/>
 </p>  
@@ -72,15 +78,19 @@ They already contain more than **`150 pre-recorded data`**.
 
 These lists can be modified to add one or more filament types/brands.  
 Simply add what you want in the corresponding column so that you can then find it in the list of the corresponding column on the **`"Inventory"`** sheet.
-
+</details>
 
 ### :art: Colors :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
   As you will have understood, this column supports the color of the filament. 
-
+</details>
 
 ### :chart_with_downwards_trend: Remaining weight (g) :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 This column allows you to obtain the remaining weight of a reel taking into account 2 values:  
 - The **`"Total weight of new spool(s) (g)"`**
 - The **`"New filament consumption in (g)"`**<br>
@@ -89,50 +99,56 @@ This column allows you to obtain the remaining weight of a reel taking into acco
 
   > <ins>Ex:</ins> If you enter 1 spool of 1000g (new) on the first line and you wish to deduct the quantity of filament used by a print in progress in the column "New filament consumption in (g )",
   > an automatic subtraction is carried out in the "Remaining weight" column to give you the most accurate result possible of the remaining quantity.
-
+</details>
 
 ### :file_folder: Storage Location :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 Makes it easier to find your reels if they are stored in different places in your workshop, office or dedicated room. 
-
+</details>
 
 ### :flower_playing_cards: TD (Hueforge) :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 HueForge's TD is a number indicating the amount of light the filament lets through.  
 Useful if you often print Hueforge to have this value quickly in front of you depending on the filament used.
-
+</details>
 
 ### :clock130: Drying Time (mins) :
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 As for "TD (Hueforge)" it is a value that is interesting to have in front of you quickly when you need it.
+</details>
 
 - ### :fire: Nozzle/Plate Temperature 
 <details>
 
-<summary>Click to expand:arrow_down_small:</summary><br>
-
+<summary>Click to expand :arrow_down_small:</summary><br>
 Do I really need you to explain what this cell is for? :stuck_out_tongue_winking_eye:
 </details>
 
 - ### :sweat_drops: Flow
 <details>
 
-<summary>Click to expand:arrow_down_small:</summary><br>
-
-The **`Flow`** or **`Flow`** corresponds to the volume of filament passing through the extruder.<br>
+<summary>Click to expand :arrow_down_small:</summary><br>
+The **`Flow`** corresponds to the volume of filament passing through the extruder.<br>
 </details>
 
 - ### :bar_chart: K factor
 <details>
 
-<summary>Click to expand:arrow_down_small:</summary><br>
-
+<summary>Click to expand :arrow_down_small:</summary><br>
 As a reminder, the K Factor is a value used to determine the maximum printing speed while limiting mechanical vibrations.<br>
 In other words, the K Factor makes it possible to adjust the acceleration in the movement of the axes to guarantee a good balance between speed and quality
 </details>
 
 ### :arrow_heading_down: New filament consumption (g) : 
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
 The last weight that appears in the **`"Remaining weight"`** column is in memory.<br>
 If you enter a **`New filament consumption`** the subtraction continues from the last weight in memory.
@@ -142,10 +158,12 @@ If you enter a **`New filament consumption`** the subtraction continues from the
 > <ins>Ex:</ins> If you enter a remaining weight of for example 800g and a print plans to use 200g of filament,<br>
 > by entering the value of 200g in the column **`"New filament consumption in (g)"`** the remaining weight is automatically adjusted (800-200 = 600g remaining).<br>*
 > Always to allow you to have precise monitoring of your usage.
-
+</details>
 
 ### :warning: Alert" et "% remaining : 
+<details>
 
+<summary>Click to expand :arrow_down_small:</summary><br>
 These two columns are a little different from the others.  
 They tell you with text and a bright color that your filament is almost exhausted.  
 No need to manually enter a value, everything is automated.  
@@ -161,10 +179,12 @@ No need to manually enter a value, everything is automated.
 > At the same time, the “% remaining” cell gives you this information by comparing the “Total weight of new spool(s) (g)” column with the “Remaining weight” column.<br>
 > When the remaining weight in grams reaches 30% of the initial value in grams of the new spool, the complete line changes color and the text "⚠️Filament soon exhausted" appears in the "Alert" column.<br>
 > Giving you the information to think about replacing your spool shortly. 
-
+</details>
 
 ### :black_square_button: Cancel modification Macro : 
-
+<details>
+  
+<summary>Click to expand :arrow_down_small:</summary><br>
 Using this macro (button) you can cancel the last modification made to the **`Remaining weight`** column in relation to a value entered in the **`New filament consumption`** column<br>
 This macro works with each press: cancellation of the previous modification.  
 
@@ -176,8 +196,8 @@ This macro works with each press: cancellation of the previous modification.
 
 > <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
 > this button (macro) allows you, as its name suggests, to cancel the last modification made to the Remaining weight column compared to the value entered in New filament consumption.<br>
+</details>
 
-<br />
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
