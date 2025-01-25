@@ -1,7 +1,7 @@
 <h1 align="center">3DFi - 3D Filament Inventory</h1>
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/06687d3f-0c7b-4bc9-967d-8c176899ea32"/>  
+  <img src="https://github.com/user-attachments/assets/7dfce432-5eb8-4d2b-8eec-9790c35aeeca"/>  
 
 
 https://github.com/user-attachments/assets/9f779b33-d471-48b4-b958-70309060eb05
