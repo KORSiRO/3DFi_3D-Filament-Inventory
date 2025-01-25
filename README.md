@@ -18,9 +18,7 @@ Several values are taken into account to allow you to be as accurate as possible
 <br />
 
 > [!NOTE]
->* *This table consists of 12 columns and 2 sheets, each of which has an important role.*
-
- <img src="https://github.com/user-attachments/assets/8dbc0ac3-acb4-44f5-a256-970c484dae86"/> 
+>* *This table consists of 16 columns and 2 sheets, each of which has an important role.*
 
 <br /><br />
 
