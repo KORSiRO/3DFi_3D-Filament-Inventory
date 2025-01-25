@@ -31,8 +31,11 @@ Several values are taken into account to allow you to be as accurate as possible
 - :file_folder: [Storage Location](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#file_folder-storage-location-)
 - :flower_playing_cards: [TD (Hueforge)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#flower_playing_cards-td-hueforge-)
 - :clock130: [Drying time (mins)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#clock130-drying-time-mins-)
-- :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#warning-alert-et--remaining-)
+- :fire: [Nozzle/Plate Temperature](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main#fire-nozzleplate-temperature)
+- :sweat_drops: [Flow](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main#sweat_drops-flow)
+- :bar_chart: [K factor](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main#bar_chart-k-factor)
 - :arrow_heading_down: [New filament consumption (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#arrow_heading_down-nouvelle-consommation-de-filament)
+- :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#warning-alert-et--remaining-)
 - 🔲 [Cancel modification Macro](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#black_square_button-macro-annuler-la-modification)
 
 <br />
