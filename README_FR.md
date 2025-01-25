@@ -159,8 +159,7 @@ Ai-je réellement besoin de vous expliquez l'utilité de cette cellule ? :stuck_
 
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
-Vraiment ? Vous vous posez la question ? 
-Bien entendu que cette cellule est là pour le style :sweat_smile:
+Le **`Débit`** ou **`Flow`** correspond au volume de filament qui traverse l'extrudeur.<br>
 </details>  
 
 - ### :bar_chart: Facteur K
