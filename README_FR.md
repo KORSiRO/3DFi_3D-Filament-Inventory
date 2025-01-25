@@ -20,7 +20,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 > [!NOTE]
 >* *Ce tableau est composé de 16 colonnes et 2 feuilles qui ont chacune un rôle important.*
 
-<br /><br />
+<br />
 
 ### TABLE DES MATIÈRES:
 - :curly_loop: [Quantité-de-bobine(s)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
