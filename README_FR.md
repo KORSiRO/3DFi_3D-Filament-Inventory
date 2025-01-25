@@ -18,9 +18,7 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <br />
 
 > [!NOTE]
->* *Ce tableau est composé de 12 colonnes et 2 feuilles qui ont chacune un rôle important.*
-
- <img src="https://github.com/user-attachments/assets/00fee29d-f7b0-4838-9b5b-6ab21d8734ef"/> 
+>* *Ce tableau est composé de 16 colonnes et 2 feuilles qui ont chacune un rôle important.*
 
 <br /><br />
 
