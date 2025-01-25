@@ -44,6 +44,7 @@ Several values are taken into account to allow you to be as accurate as possible
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Present to indicate the number of identical reels for the same line.
 </details> 
 
@@ -51,6 +52,7 @@ Present to indicate the number of identical reels for the same line.
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Present to provide the total weight in grams of the identical spool(s) for the same line.
    
 <br>
@@ -62,6 +64,7 @@ Present to provide the total weight in grams of the identical spool(s) for the s
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/39a6704a-9d40-4134-b052-baa9dc709743"/>
 </p>  
@@ -84,6 +87,7 @@ Simply add what you want in the corresponding column so that you can then find i
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
   As you will have understood, this column supports the color of the filament. 
 </details>
 
@@ -91,6 +95,7 @@ Simply add what you want in the corresponding column so that you can then find i
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 This column allows you to obtain the remaining weight of a reel taking into account 2 values:  
 - The **`"Total weight of new spool(s) (g)"`**
 - The **`"New filament consumption in (g)"`**<br>
@@ -105,6 +110,7 @@ This column allows you to obtain the remaining weight of a reel taking into acco
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Makes it easier to find your reels if they are stored in different places in your workshop, office or dedicated room. 
 </details>
 
@@ -112,6 +118,7 @@ Makes it easier to find your reels if they are stored in different places in you
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 HueForge's TD is a number indicating the amount of light the filament lets through.  
 Useful if you often print Hueforge to have this value quickly in front of you depending on the filament used.
 </details>
@@ -120,6 +127,7 @@ Useful if you often print Hueforge to have this value quickly in front of you de
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 As for "TD (Hueforge)" it is a value that is interesting to have in front of you quickly when you need it.
 </details>
 
@@ -127,6 +135,7 @@ As for "TD (Hueforge)" it is a value that is interesting to have in front of you
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Do I really need you to explain what this cell is for? :stuck_out_tongue_winking_eye:
 </details>
 
@@ -134,6 +143,7 @@ Do I really need you to explain what this cell is for? :stuck_out_tongue_winking
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 The **`Flow`** corresponds to the volume of filament passing through the extruder.<br>
 </details>
 
@@ -141,6 +151,7 @@ The **`Flow`** corresponds to the volume of filament passing through the extrude
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 As a reminder, the K Factor is a value used to determine the maximum printing speed while limiting mechanical vibrations.<br>
 In other words, the K Factor makes it possible to adjust the acceleration in the movement of the axes to guarantee a good balance between speed and quality
 </details>
@@ -149,6 +160,7 @@ In other words, the K Factor makes it possible to adjust the acceleration in the
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Briefly mentioned in the previous part, the column **`"New filament consumption in (g)"`** allows you to automatically subtract the filament consumption of a print in progress from the remaining weight of one or more spools.< br>
 The last weight that appears in the **`"Remaining weight"`** column is in memory.<br>
 If you enter a **`New filament consumption`** the subtraction continues from the last weight in memory.
@@ -164,6 +176,7 @@ If you enter a **`New filament consumption`** the subtraction continues from the
 <details>
 
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 These two columns are a little different from the others.  
 They tell you with text and a bright color that your filament is almost exhausted.  
 No need to manually enter a value, everything is automated.  
@@ -185,6 +198,7 @@ No need to manually enter a value, everything is automated.
 <details>
   
 <summary>Click to expand :arrow_down_small:</summary><br>
+
 Using this macro (button) you can cancel the last modification made to the **`Remaining weight`** column in relation to a value entered in the **`New filament consumption`** column<br>
 This macro works with each press: cancellation of the previous modification.  
 
