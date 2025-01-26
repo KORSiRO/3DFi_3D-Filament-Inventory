@@ -50,8 +50,10 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
    Présente pour renseigner le nombre de bobines identiques pour une même ligne.
-</details>
 
+<br />
+
+</details>
 
 
 - ### :new: Poids total de(s) bobines neuves (g)
@@ -64,6 +66,9 @@ Présente pour renseigner le poids total en grammes du ou des bobines identiques
 
    
    > Ex : si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
+
+<br />
+
 </details>
 
  
@@ -89,9 +94,10 @@ Elles contiennent déjà plus de **`150 données préenregistrées`**.
 
 Ces listes peuvent être modifiées afin d'y ajouter un(e) ou plusieurs types/marques de filament.  
 Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de pouvoir ensuite le retrouver dans la liste de la colonne correspondante sur la feuille **`"Inventaire"`**.  
+
+<br />
+
 </details>
-
-
 
 - ### :art: Couleurs
 <details>
@@ -99,9 +105,10 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
+
+<br />
+
 </details>
-
-
 
 - ### :chart_with_downwards_trend: Poids restant (g)
 <details>
@@ -116,9 +123,10 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 
   > Ex : Si vous renseignez sur la première ligne 1 bobine de 1000g (neuve) et que vous souhaitez déduire la quantité de filament utilisée par une impression en cours dans la colonne "Nouvelle consommation de filament en (g)",
   > une soustraction automatique est effectuée dans la colonne "Poids restant" pour vous donner un résultat le plus précis possible de la quantité restante.
+
+<br />
+
 </details>
-
-
 
 - ### :file_folder: Lieu de stockage
 <details>
@@ -126,9 +134,10 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
+
+<br />
+
 </details>
-
-
 
 - ### :flower_playing_cards: TD (Hueforge)
 <details>
@@ -137,9 +146,10 @@ Facilite la recherche de vos bobines si elles sont entreposées à différents e
 
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
+
+<br />
+
 </details>
-
-
 
 - ### :clock130: Temps de séchage (mins)
 <details>
@@ -147,6 +157,9 @@ Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
+
+<br />
+
 </details>
 
 - ### :fire: Température Buse/Plateau 
@@ -155,6 +168,9 @@ Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous l
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
 Ai-je réellement besoin de vous expliquez l'utilité de cette cellule ? :stuck_out_tongue_winking_eye:
+
+<br />
+
 </details>  
 
 - ### :sweat_drops: Débit
@@ -163,6 +179,9 @@ Ai-je réellement besoin de vous expliquez l'utilité de cette cellule ? :stuck_
 <summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
 
 Le **`Débit`** ou **`Flow`** correspond au volume de filament qui traverse l'extrudeur.<br>
+
+<br />
+
 </details>  
 
 - ### :bar_chart: Facteur K
@@ -172,6 +191,9 @@ Le **`Débit`** ou **`Flow`** correspond au volume de filament qui traverse l'ex
 
 Pour rappel, le Facteur K est une valeur qui sert à déterminer la vitesse maximale de l’impression tout en limitant les vibrations mécanique.<br>
 En d'autres termes, le Facteur K permet d’ajuster l’accélération dans le mouvement des axes pour garantir un bon équilibre entre rapidité et qualité
+
+<br />
+
 </details>  
 
 - ### :arrow_heading_down: Nouvelle consommation de filament 
@@ -188,8 +210,10 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 > Ex : Si vous renseignez un poids restant de par exemple 800g et qu'une impression prévoit d'utiliser 200g de filament,<br>
 > en saisissant la valeur de 200g dans la colonne **`"Nouvelle consommation de filament en (g)"`** le poids restant est automatiquement ajusté (800-200 = 600g restant).<br>*
 > Toujours pour vous permettre d'avoir un suivi précis de votre utilisation.
-</details>
 
+<br />
+
+</details>
 
 - ### :warning: Alerte et % restant
 <details>
@@ -211,8 +235,10 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 > En parallèle, la cellule "% restant" vous donne donc cette information en comparant la colonne "Poids total de(s) bobines neuves (g)" avec la colonne "Poids restant".<br>
 > Quand le poids restant en grammes atteint 30% de la valeur en grammes initiale de la bobine neuve, la ligne complète change de couleur et le texte "⚠️Filament bientôt épuisé" apparait dans la colonne "Alerte".<br>
 > Vous donnant ainsi l'information de penser à remplacer sous peu votre bobine.
-</details>
 
+<br />
+
+</details>
 
 - ### :black_square_button: Macro Annuler la modification 
 <details>
@@ -230,6 +256,9 @@ Cette macro fonctionne à chaque appuie et annule la modification précédente.
 
 > Ex : Si vous renseignez un poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
 > ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseignée dans Nouvelle consommation de filament.<br>
+
+<br />
+
 </details>
 
 <br />
