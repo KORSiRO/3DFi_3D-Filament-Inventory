@@ -2,7 +2,7 @@
 
 <br />
 
-<h2 align="center">⬇️ Video of how the file works ⬇️</h1>
+<h2 align="center">⬇️ Video of how the file works ⬇️</h2>
 
 [![Watch the video](https://github.com/user-attachments/assets/29f38d4c-c530-4949-a487-fa41f8b59640)](https://youtu.be/bSyMhTsakyI)
 
@@ -49,7 +49,7 @@ Several values are taken into account to allow you to be as accurate as possible
 
 <br /><br />
 
-## :clipboard: Inventory
+<h2 align="center">:clipboard: Inventory</h2>
 
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/7dfce432-5eb8-4d2b-8eec-9790c35aeeca"/>  
@@ -203,9 +203,19 @@ This macro works with each press: cancellation of the previous modification.
 > <ins>Ex:</ins> If you enter a remaining weight of 800g and a new filament consumption of 200g when you wanted to enter 150g,
 > this button (macro) allows you, as its name suggests, to cancel the last modification made to the Remaining weight column compared to the value entered in New filament consumption.<br>
 
-<br />
+</details> 
 
-</details>  
+<br /><br />
+
+<h2 align="center">:clipboard: Synthesis</h2>
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/3f5eec1b-d630-4efc-b73d-2788bcf1eb1b"/>  
+</p>
+
+<details>
+
+<summary>Click to expand :arrow_down_small:</summary>
 
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
