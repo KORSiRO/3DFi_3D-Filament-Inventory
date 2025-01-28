@@ -6,7 +6,7 @@
 
 <br />
 
-## ⬇️ Video of how the file works ⬇️<br>
+## ⬇️ Vidéo du fonctionnement du fichier ⬇️<br>
 
 [![Watch the video](https://github.com/user-attachments/assets/29f38d4c-c530-4949-a487-fa41f8b59640)](https://youtu.be/bSyMhTsakyI)
 
