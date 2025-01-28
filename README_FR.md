@@ -99,8 +99,6 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-</details>
-
 - ### :chart_with_downwards_trend: Poids restant (g)<br>
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
