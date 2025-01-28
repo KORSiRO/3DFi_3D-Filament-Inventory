@@ -49,10 +49,9 @@ Several values are taken into account to allow you to be as accurate as possible
 - :arrow_heading_down: [New filament consumption (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#arrow_heading_down-new-filament-consumption-g)
 - :warning: [Alert" and "% remaining](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#warning-alert-et--remaining)
 - 🔲 [Cancel modification Macro](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#black_square_button-cancel-modification-macro)
-
-<br />
-
 </details>  
+
+<br /><br />
 
 ## :clipboard: Inventory
 
