@@ -31,7 +31,11 @@ Several values are taken into account to allow you to be as accurate as possible
 <br />
 
 ### TABLE OF CONTENTS:
-- :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#curly_loop-spools-quantity-)
+<details>
+
+<summary>- Sheet 1 : Inventory :arrow_down_small:</summary><br>
+
+- :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#curly_loop-spools-quantity-)
 - :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#new-total-weight-of-new-spools-g-)
 - :memo: [Filament Type" and "Filament Brand](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#memo-filament-type-and-filament-brand-)
 - :art: [Colors](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#art-colors-)
@@ -47,6 +51,8 @@ Several values are taken into account to allow you to be as accurate as possible
 - 🔲 [Cancel modification Macro](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#black_square_button-macro-annuler-la-modification)
 
 <br />
+
+</details>  
 
 ## :clipboard: TABLE FEATURES
 
