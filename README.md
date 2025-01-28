@@ -54,7 +54,7 @@ Several values are taken into account to allow you to be as accurate as possible
 
 </details>  
 
-## :clipboard: Inventory - Sheet 1
+## :clipboard: Inventory
 
 <details>
 
