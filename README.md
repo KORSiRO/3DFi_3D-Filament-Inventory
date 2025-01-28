@@ -33,7 +33,7 @@ Several values are taken into account to allow you to be as accurate as possible
 ### TABLE OF CONTENTS:
 <details>
 
-<summary>- Sheet 1 : Inventory :arrow_down_small:</summary><br>
+<summary>Sheet 1 : Inventory :arrow_down_small:</summary><br>
 
 - :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-spools-quantity-)
 - :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_EN.md#new-total-weight-of-new-spools-g-)
