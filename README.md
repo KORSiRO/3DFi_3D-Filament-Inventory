@@ -31,10 +31,6 @@ Several values are taken into account to allow you to be as accurate as possible
 
 <summary>Sheet 1 : Inventory :arrow_down_small:</summary><br>
 
-<p align="center">  
-  <img src="https://github.com/user-attachments/assets/7dfce432-5eb8-4d2b-8eec-9790c35aeeca"/>  
-</p>
-
 - :curly_loop: [Spool(s) Quantity](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#curly_loop-spools-quantity)
 - :new: [Total weight of new spool(s) (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#new-total-weight-of-new-spools-g)
 - :memo: [Filament Type" and "Filament Brand](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/tree/main?tab=readme-ov-file#memo-filament-type-and-filament-brand)
@@ -54,6 +50,10 @@ Several values are taken into account to allow you to be as accurate as possible
 <br /><br />
 
 ## :clipboard: Inventory
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/7dfce432-5eb8-4d2b-8eec-9790c35aeeca"/>  
+</p>
 
 <details>
 
