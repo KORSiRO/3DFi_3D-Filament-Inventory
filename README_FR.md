@@ -1,12 +1,8 @@
 <h1 align="center">3DFi - 3D Filament Inventory</h1>
 
-<p align="center">  
-  <img src="https://github.com/user-attachments/assets/141355e5-7a55-435e-9cd0-d3706a72bd73"/>  
-</p>
-
 <br />
 
-## ⬇️ Vidéo du fonctionnement du fichier ⬇️<br>
+<h2 align="center">⬇️ Video du fonctionnement du fichier ⬇️</h2>
 
 [![Watch the video](https://github.com/user-attachments/assets/29f38d4c-c530-4949-a487-fa41f8b59640)](https://youtu.be/bSyMhTsakyI)
 
@@ -29,6 +25,10 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 <br />
 
 ### TABLE DES MATIÈRES:
+<details>
+
+<summary>Feuille 1 : Inventaire :arrow_down_small:</summary><br>
+
 - :curly_loop: [Quantité-de-bobine(s)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#curly_loop-quantit%C3%A9-de-bobines-)
 - :new: [Poids total de(s) bobines neuves (g)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#new-poids-total-des-bobines-neuves-g-)
 - :memo: [Type de Filament" et "Marque de filament](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#memo-type-de-filament-et-marque-de-filament-)
@@ -43,46 +43,36 @@ Plusieurs valeurs sont prises en compte pour vous permettre d'être le plus pré
 -  :arrow_heading_down: [Nouvelle consommation de filament](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README.md#arrow_heading_down-nouvelle-consommation-de-filament)
 - :warning: [Alerte" et "% restant](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/edit/main/README.md#warning-alerte-et--restant-)
 - :black_square_button: [Macro Annuler la modification](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory#black_square_button-macro-annuler-la-modification-)
+</details>  
 
-<br />
+<br /><br />
 
-## :clipboard: CARACTÉRISTIQUES DU TABLEAU
+<h2 align="center">:clipboard: Inventaire</h2>
 
-<br />
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/7dfce432-5eb8-4d2b-8eec-9790c35aeeca"/>  
+</p>
 
-- ### :curly_loop: Quantité de bobine(s)
 <details>
 
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+<summary>Cliquez pour dérouler :arrow_down_small:</summary>
 
-   Présente pour renseigner le nombre de bobines identiques pour une même ligne.
+
+- ### :curly_loop: Quantité de bobine(s)<br>
+
+Présente pour renseigner le nombre de bobines identiques pour une même ligne.
 
 <br />
 
-</details>
-
-
-- ### :new: Poids total de(s) bobines neuves (g)
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :new: Poids total de(s) bobines neuves (g)<br>
 
 Présente pour renseigner le poids total en grammes du ou des bobines identiques pour une même ligne.  
   
-
-   
-   > Ex : si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
+> <ins>Ex:</ins> si vous avez dans votre inventaire 3 bobines de filament noir de marque Bambu Lab de 1kg chacune, renseignez "3000g"
 
 <br />
 
-</details>
-
- 
-
-- ### :memo: Type de Filament et Marque de filament
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :memo: Type de Filament et Marque de filament<br>
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/399afa3a-1b1d-4af3-8b2e-de2667a24441"/>
@@ -103,12 +93,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 <br />
 
-</details>
-
-- ### :art: Couleurs
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :art: Couleurs<br>
 
   Vous l'aurez compris, cette colonne-ci assure la prise en charge de la couleur du filament.  
 
@@ -116,10 +101,7 @@ Il suffit d'ajouter dans la colonne correspondante ce que vous souhaitez afin de
 
 </details>
 
-- ### :chart_with_downwards_trend: Poids restant (g)
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :chart_with_downwards_trend: Poids restant (g)<br>
 
 Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en compte de 2 valeurs :  
 - Le **`"Poids total de(s) bobines neuves (g)"`** 
@@ -132,80 +114,45 @@ Cette colonne permet d'obtenir le poids restant d'une bobine avec la prise en co
 
 <br />
 
-</details>
-
-- ### :file_folder: Lieu de stockage
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :file_folder: Lieu de stockage<br>
 
 Facilite la recherche de vos bobines si elles sont entreposées à différents endroits de votre atelier, bureau ou pièce dédiée.  
 
 <br />
 
-</details>
-
-- ### :flower_playing_cards: TD (Hueforge)
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :flower_playing_cards: TD (Hueforge)<br>
 
 La TD ou Transmission Distance de HueForge est un nombre indiquant la quantité de lumière que le filament laisse passer.  
 Utile si vous imprimez souvent des Hueforge d'avoir cette valeur rapidement sous les yeux en fonction du filament utilisé.
 
 <br />
 
-</details>
-
-- ### :clock130: Temps de séchage (mins)
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :clock130: Temps de séchage (mins)<br>
 
 Comme pour "TD (Hueforge) c'est une valeur qu'il est intéressant d'avoir sous les yeux rapidement quand vous en avez besoin.
 
 <br />
 
-</details>
-
-- ### :fire: Température Buse/Plateau 
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :fire: Température Buse/Plateau<br> 
 
 Ai-je réellement besoin de vous expliquez l'utilité de cette cellule ? :stuck_out_tongue_winking_eye:
 
 <br />
 
-</details>  
-
-- ### :sweat_drops: Débit
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :sweat_drops: Débit<br>
 
 Le **`Débit`** ou **`Flow`** correspond au volume de filament qui traverse l'extrudeur.<br>
 
 <br />
 
-</details>  
-
-- ### :bar_chart: Facteur K
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :bar_chart: Facteur K<br>
 
 Pour rappel, le Facteur K est une valeur qui sert à déterminer la vitesse maximale de l’impression tout en limitant les vibrations mécanique.<br>
 En d'autres termes, le Facteur K permet d’ajuster l’accélération dans le mouvement des axes pour garantir un bon équilibre entre rapidité et qualité
 
 <br />
 
-</details>  
-
-- ### :arrow_heading_down: Nouvelle consommation de filament 
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :arrow_heading_down: Nouvelle consommation de filament<br> 
 
 Évoqué rapidement dans la partie précédente, la colonne **`"Nouvelle consommation de filament en (g)"`** permet de soustraire automatiquement une consommation de filament d'une impression en cours au poids restant d'une ou plusieurs bobines.<br>
 Le dernier poids qui apparaît dans la colonne **`"Poids restant"`** est en mémoire.<br>
@@ -219,12 +166,7 @@ Si vous renseignez une **`Nouvelle consommation de filament`** la soustraction c
 
 <br />
 
-</details>
-
-- ### :warning: Alerte et % restant
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :warning: Alerte et % restant<br>
 
 Ces deux colonnes sont un peu différentes des autres.  
 Elles vous indique par un texte et une couleur vive que votre filament est bientôt épuisé.  
@@ -244,12 +186,7 @@ Aucun besoin de saisir manuellement une valeur, tout est automatisé.
 
 <br />
 
-</details>
-
-- ### :black_square_button: Macro Annuler la modification 
-<details>
-
-<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+- ### :black_square_button: Macro Annuler la modification<br> 
 
 Grâce à cette macro (bouton) vous pouvez annuler la dernière modification apportée à la colonne **`Poids restant`** par rapport à une valeur entrée dans la colonne **`Nouvelle consommation de filament`**<br>
 Cette macro fonctionne à chaque appuie et annule la modification précédente.  
@@ -262,10 +199,6 @@ Cette macro fonctionne à chaque appuie et annule la modification précédente.
 
 > Ex : Si vous renseignez un poids restant de 800g et une nouvelle consommation de filament de 200g alors que vous vouliez renseigner 150g,
 > ce bouton (macro) vous permet comme son nom l'indique, d'annuler la dernière modification apportée à la colonne Poids restant par rapport à la valeur renseignée dans Nouvelle consommation de filament.<br>
-
-<br />
-
-</details>
 
 <br />
 
