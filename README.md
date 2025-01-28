@@ -2,7 +2,7 @@
 
 <br />
 
-## ⬇️ Video of how the file works ⬇️<br>
+<h2 align="center">⬇️ Video of how the file works ⬇️</h1>
 
 [![Watch the video](https://github.com/user-attachments/assets/29f38d4c-c530-4949-a487-fa41f8b59640)](https://youtu.be/bSyMhTsakyI)
 
@@ -54,7 +54,7 @@ Several values are taken into account to allow you to be as accurate as possible
 
 </details>  
 
-## :clipboard: Sheet 1
+## :clipboard: Inventory - Sheet 1
 
 <details>
 
