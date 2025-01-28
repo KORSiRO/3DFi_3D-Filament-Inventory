@@ -6,6 +6,14 @@
 
 <br />
 
+## ⬇️ Video of how the file works ⬇️<br>
+
+[![Watch the video](https://github.com/user-attachments/assets/29f38d4c-c530-4949-a487-fa41f8b59640)](https://youtu.be/bSyMhTsakyI)
+
+<br />
+
+
+
 ### :arrow_right: [README en Français](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/blob/main/README_FR.md)
 
 ### ⬇️ [Download](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory/releases)
