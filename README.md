@@ -207,10 +207,10 @@ This macro works with each press: cancellation of the previous modification.
 
 <br /><br />
 
-<h2 align="center">:clipboard: Synthesis</h2>
+<h2 align="center">:clipboard: Summary</h2>
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/3f5eec1b-d630-4efc-b73d-2788bcf1eb1b"/>  
+  <img src="https://github.com/user-attachments/assets/0245b4da-f53c-472e-8f2e-8dfb48443888"/>  
 </p>
 
 <details>
