@@ -215,8 +215,18 @@ This macro works with each press: cancellation of the previous modification.
 
 <details>
 
-<summary>Click to expand :arrow_down_small:</summary>
+<summary>Click to expand :arrow_down_small:</summary><br>
 
+The **`Summary Sheet includes a Macro`** allows you to **`group the information`** provided in the **`Inventory Sheet`** in order to have a **`clearer vision`** of your **`filaments, their number (spool) and their quantity`**.
+**`If several identical filaments`** are distributed on **`different lines`**, the summary makes it possible to **`count the total weight of the identical spools and their number`**.<br>
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/b6a15d88-0023-4a51-818c-15d6195c138a"/>  
+</p>
+
+<br />
+
+If you **`make changes to your Inventory`**, simply **`click on the "Summerize the Inventory" Macro again`** to **`update the data`**
 
 </details>
 
