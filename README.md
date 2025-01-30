@@ -217,6 +217,9 @@ This macro works with each press: cancellation of the previous modification.
 
 <summary>Click to expand :arrow_down_small:</summary>
 
+
+</details>
+
 ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
 
