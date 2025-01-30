@@ -200,7 +200,20 @@ Cette macro fonctionne à chaque appuie et annule la modification précédente.
 
 </details>
 
-<br />
+<br /><br />
+
+<h2 align="center">:clipboard: Synthèse</h2>
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/355bbc84-a4ee-40c6-8540-d1be2d6c8fbd"/>  
+</p>
+
+<details>
+
+<summary>Cliquez pour dérouler :arrow_down_small:</summary><br>
+
+La **`Feuille Synthèse inclut une Macro`** qui vous permet de **`regrouper les données`** renseignées dans la **`Feuille Inventaire`** afin d'avoir une **`vision plus claire`** de vos **`filaments, leurs nombres (bobines) et leur quantité`**.
+**`Si plusieurs filaments identiques`** sont répartis sur des **`lignes différentes`**, la synthèse permet de **`comptabiliser le poids total des bobines identiques et leurs nombres`**.<br>
 
 - ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
