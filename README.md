@@ -210,7 +210,7 @@ This macro works with each press: cancellation of the previous modification.
 <h2 align="center">:clipboard: Summary</h2>
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/0245b4da-f53c-472e-8f2e-8dfb48443888"/>  
+  <img src="https://github.com/user-attachments/assets/c4c0e20f-982c-402b-ae41-dd9a623749de"/>  
 </p>
 
 <details>
