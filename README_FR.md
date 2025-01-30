@@ -215,6 +215,16 @@ Cette macro fonctionne à chaque appuie et annule la modification précédente.
 La **`Feuille Synthèse inclut une Macro`** qui vous permet de **`regrouper les données`** renseignées dans la **`Feuille Inventaire`** afin d'avoir une **`vision plus claire`** de vos **`filaments, leurs nombres (bobines) et leur quantité`**.
 **`Si plusieurs filaments identiques`** sont répartis sur des **`lignes différentes`**, la synthèse permet de **`comptabiliser le poids total des bobines identiques et leurs nombres`**.<br>
 
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/86ebd137-ece7-4b3b-b4f6-e423ffff4253"/>  
+</p>
+
+<br />
+
+Si vous **`apportez des modifications à votre inventaire`**, **`cliquez simplement à nouveau sur la macro "Synthétiser l'inventaire"`** pour **`mettre à jour les données`**
+
+</details>
+
 - ## Support me  
 <a href="https://ko-fi.com/korsiro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
 
